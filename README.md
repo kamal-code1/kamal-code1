@@ -10,7 +10,7 @@ API REST ASP.NET Core 8 qui alimente mon portfolio.
 
 - EF Core avec PostgreSQL ou SQLite, authentification JWT par rôles, mots de passe hachés (BCrypt)
 - Formulaire de contact protégé : validation, champ piège, limite de débit par IP, envoi via Resend ou SMTP
-- En-têtes de sécurité (CSP, HSTS), conteneur Docker non-root, déploiement Render
+- En-têtes de sécurité (CSP, HSTS), conteneur Docker non-root, configuration de déploiement Render
 - Tests d'intégration xUnit (`WebApplicationFactory`) exécutés par GitHub Actions
 
 ## Autres projets
