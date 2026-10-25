@@ -2,8 +2,6 @@
 
 Développeur Full Stack **.NET / ASP.NET Core** et JavaScript (React, Next.js, Node.js).
 
-🌐 Portfolio : [portfolio-kamal.vercel.app](https://portfolio-kamal.vercel.app)
-
 ## Projet phare
 
 ### [portfolio-api-dotnet](https://github.com/kamal-code1/portfolio-api-dotnet)
