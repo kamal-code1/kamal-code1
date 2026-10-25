@@ -18,7 +18,7 @@ API REST ASP.NET Core 8 qui alimente mon portfolio.
 | Projet | Description | Stack |
 |---|---|---|
 | [portfolio](https://github.com/kamal-code1/portfolio) | Portfolio personnel | Next.js, TypeScript, Tailwind CSS |
-| [PFE-gestion_client](https://github.com/kamal-code1/PFE-gestion_client) | Projet de fin d'études : gestion de clients, produits, fournisseurs et offres | Node.js, Express, MongoDB |
+| [PFE-gestion_client](https://github.com/kamal-code1/PFE-gestion_client) | Projet de fin d'études (en cours) : gestion de clients, produits, fournisseurs et offres | Node.js, Express, MongoDB |
 | [geeks-projet-CRM](https://github.com/kamal-code1/geeks-projet-CRM) | CRM réalisé pendant le bootcamp Geeks Institute | Node.js, Express, MongoDB, JWT |
 | [geeks_institute](https://github.com/kamal-code1/geeks_institute) | Exercices du bootcamp Full Stack Geeks Institute (2025) | JavaScript, React, Redux, Python |
 
